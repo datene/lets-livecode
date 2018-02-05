@@ -1,0 +1,23 @@
+geo_placename: Berlin
+geo_position: "52.509857;13.389000"
+geo_region: DE
+
+name: Let's livecode
+description: Beer 'o' clock
+image: "social.jpg"
+
+fb_site_name: Let's livecode
+fb_title: Let's livecode
+fb_description: Beer 'o' clock
+fb_image: "social.jpg"
+fb_type: Website
+fb_url: "https://letslivecode.space/"
+
+google_name: Let's livecode
+google_description: Beer 'o' clock
+google_image: "social.jpg"
+
+twitter_card_type: summary_large_image
+twitter_title: Let's livecode
+twitter_description: Beer 'o' clock
+twitter_image: "social.jpg"
