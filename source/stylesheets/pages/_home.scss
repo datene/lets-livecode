@@ -1,19 +1,13 @@
-#home {
-  background-image: image-url('background.gif');
-  background-size: cover;
-  background-position: center;
+.content {
   color: white;
-  height: 100vh;
-  display: flex;
-  align-items: center;
-  justify-content: space-around;
-  text-align: center;
-  p {
-    margin-top: 1.5em;
+  h1 {
+    font-weight: 800;
+    font-size: 40px;
+    margin-bottom: 0;
   }
-  a {
-    color: rgba(0,0,0,0.4);
-    font-weight: bold;
-    font-size: 16px;
+  h2 {
+    font-size: 300px;
+    font-weight: 800;
+    line-height: 250px;
   }
 }
